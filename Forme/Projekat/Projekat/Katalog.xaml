@@ -1,0 +1,29 @@
+﻿<Window x:Class="Rent_a_car.Katalog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Katalog" Height="400" Width="620.141" Background="LightSteelBlue" HorizontalAlignment="Center" HorizontalContentAlignment="Center">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="100" Margin="10,10,0,0" VerticalAlignment="Top" Width="150" Source="C:\Users\Amra\Desktop\Auta\golf6.jpg"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="160,10,0,0" VerticalAlignment="Top" Width="150" Source="C:\Users\Amra\Desktop\Auta\Golf7.jpg"/>
+        <Image HorizontalAlignment="Left" Height="81" Margin="480,120,0,0" VerticalAlignment="Top" Width="132" Source="C:\Users\Amra\Desktop\Auta\mini.jpg"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="320,10,0,0" VerticalAlignment="Top" Width="150" Source="C:\Users\Amra\Desktop\Auta\audiA6.jpg"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="470,10,0,0" VerticalAlignment="Top" Width="150" Source="C:\Users\Amra\Desktop\Auta\mercA.jpg"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="10,120,0,0" VerticalAlignment="Top" Width="150" Source="C:\Users\Amra\Desktop\Auta\audiA4.jpg"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="170,120,0,0" VerticalAlignment="Top" Width="150" Source="C:\Users\Amra\Desktop\Auta\renaultMegan.jpg"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="330,120,0,0" VerticalAlignment="Top" Width="150" Source="C:\Users\Amra\Desktop\Auta\opelAstra.jpg"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="10,220,0,0" VerticalAlignment="Top" Width="150" Source="C:\Users\Amra\Desktop\Auta\HyElite_i20.png"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="170,220,0,0" VerticalAlignment="Top" Width="150" Source="C:\Users\Amra\Desktop\Auta\HySantaFe.jpg"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="330,220,0,0" VerticalAlignment="Top" Width="150" Source="C:\Users\Amra\Desktop\Auta\vwTuareg.jpg"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="490,220,0,0" VerticalAlignment="Top" Width="150" Source="C:\Users\Amra\Desktop\Auta\Q7.jpg"/>
+
+
+
+
+
+
+
+
+
+
+    </Grid>
+</Window>
