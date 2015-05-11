@@ -5,7 +5,9 @@
     <Grid>
         <Label Content="ID broj" HorizontalAlignment="Left" Margin="280,94,0,0" VerticalAlignment="Top"/>
         <TextBox HorizontalAlignment="Left" Height="23" Margin="348,97,0,0" TextWrapping="Wrap" Text=" " VerticalAlignment="Top" Width="120"/>
-        <GroupBox Header="LOG IN" HorizontalAlignment="Left" Margin="280,61,0,0" VerticalAlignment="Top" Height="110" Width="201" Foreground="Blue"/>
+        <GroupBox Header="LOG IN" HorizontalAlignment="Left" Margin="280,61,0,0" VerticalAlignment="Top" Height="110" Width="201" Foreground="Blue">
+            <Button Content="Log In" HorizontalAlignment="Left" Height="26" VerticalAlignment="Top" Width="77" Margin="101,62,0,0"/>
+        </GroupBox>
         <Label Content="Ime" HorizontalAlignment="Left" Margin="28,75,0,0" VerticalAlignment="Top"/>
         <Label Content="Prezime" HorizontalAlignment="Left" Margin="28,118,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.254,0.331"/>
         <Label Content="e-mail" HorizontalAlignment="Left" Margin="28,199,0,0" VerticalAlignment="Top"/>

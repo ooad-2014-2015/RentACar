@@ -1,1 +1,2 @@
 c:\users\amra\documents\visual studio 2012\Projects\Projekat\Projekat\bin\Debug\Projekat.exe.config
+C:\Users\Amra\Desktop\RentACar\Forme\Projekat\Projekat\bin\Debug\Projekat.exe.config
