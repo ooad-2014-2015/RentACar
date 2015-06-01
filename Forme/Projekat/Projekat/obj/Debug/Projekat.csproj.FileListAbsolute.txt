@@ -1,2 +1,25 @@
 c:\users\amra\documents\visual studio 2012\Projects\Projekat\Projekat\bin\Debug\Projekat.exe.config
 C:\Users\Amra\Desktop\RentACar\Forme\Projekat\Projekat\bin\Debug\Projekat.exe.config
+C:\Users\AyLLa\Desktop\Projekat\Projekat\bin\Debug\Projekat.exe.config
+C:\Users\AyLLa\Desktop\Projekat\Projekat\obj\Debug\Projekat.csprojResolveAssemblyReference.cache
+C:\Users\AyLLa\Desktop\Projekat\Projekat\obj\Debug\Iznajmljivanje.baml
+C:\Users\AyLLa\Desktop\Projekat\Projekat\obj\Debug\Katalog.baml
+C:\Users\AyLLa\Desktop\Projekat\Projekat\obj\Debug\Placanje.baml
+C:\Users\AyLLa\Desktop\Projekat\Projekat\obj\Debug\Pocetna.baml
+C:\Users\AyLLa\Desktop\Projekat\Projekat\obj\Debug\Rezervacija.baml
+C:\Users\AyLLa\Desktop\Projekat\Projekat\obj\Debug\Iznajmljivanje.g.cs
+C:\Users\AyLLa\Desktop\Projekat\Projekat\obj\Debug\Katalog.g.cs
+C:\Users\AyLLa\Desktop\Projekat\Projekat\obj\Debug\Placanje.g.cs
+C:\Users\AyLLa\Desktop\Projekat\Projekat\obj\Debug\Pocetna.g.cs
+C:\Users\AyLLa\Desktop\Projekat\Projekat\obj\Debug\Rezervacija.g.cs
+C:\Users\AyLLa\Desktop\Projekat\Projekat\obj\Debug\App.g.cs
+C:\Users\AyLLa\Desktop\Projekat\Projekat\obj\Debug\Projekat_MarkupCompile.cache
+C:\Users\AyLLa\Desktop\Projekat\Projekat\obj\Debug\Projekat.g.resources
+C:\Users\AyLLa\Desktop\Projekat\Projekat\obj\Debug\Projekat.Properties.Resources.resources
+C:\Users\AyLLa\Desktop\Projekat\Projekat\obj\Debug\Projekat.csproj.GenerateResource.Cache
+C:\Users\AyLLa\Desktop\Projekat\Projekat\bin\Debug\Projekat.exe
+C:\Users\AyLLa\Desktop\Projekat\Projekat\bin\Debug\Projekat.pdb
+C:\Users\AyLLa\Desktop\Projekat\Projekat\obj\Debug\Projekat.exe
+C:\Users\AyLLa\Desktop\Projekat\Projekat\obj\Debug\Projekat.pdb
+C:\Users\AyLLa\Desktop\Projekat\Projekat\obj\Debug\Help.baml
+C:\Users\AyLLa\Desktop\Projekat\Projekat\obj\Debug\Help.g.cs

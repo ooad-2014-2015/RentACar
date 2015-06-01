@@ -21,7 +21,7 @@ namespace Projekat
     {
         public Katalog()
         {
-            InitializeComponent();
+           // InitializeComponent();
         }
     }
 }

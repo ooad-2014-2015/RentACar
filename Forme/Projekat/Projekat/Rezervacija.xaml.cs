@@ -21,7 +21,7 @@ namespace Projekat
     {
         public Rezervacija()
         {
-            InitializeComponent();
+            //InitializeComponent();
         }
     }
 }
