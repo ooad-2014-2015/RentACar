@@ -15,13 +15,13 @@ using System.Windows.Shapes;
 namespace Projekat
 {
     /// <summary>
-    /// Interaction logic for Placanje.xaml
+    /// Interaction logic for Help.xaml
     /// </summary>
-    public partial class Placanje : Window
+    public partial class Help : Window
     {
-        public Placanje()
+        public Help()
         {
-           // InitializeComponent();
+            InitializeComponent();
         }
     }
 }

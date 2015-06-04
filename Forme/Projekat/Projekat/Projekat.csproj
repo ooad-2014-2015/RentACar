@@ -53,6 +53,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Help.xaml.cs">
+      <DependentUpon>Help.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Katalog.xaml.cs">
       <DependentUpon>Katalog.xaml</DependentUpon>
     </Compile>
@@ -65,6 +68,10 @@
     <Compile Include="Rezervacija.xaml.cs">
       <DependentUpon>Rezervacija.xaml</DependentUpon>
     </Compile>
+    <Page Include="Help.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Iznajmljivanje.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>

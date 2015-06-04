@@ -21,7 +21,7 @@ namespace Projekat
     {
         public Pocetma()
         {
-            InitializeComponent();
+           // InitializeComponent();
         }
     }
 }

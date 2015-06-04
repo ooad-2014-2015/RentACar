@@ -21,7 +21,13 @@ namespace Projekat
     {
         public Iznajmljivanje()
         {
-            InitializeComponent();
+            //InitializeComponent();
+        }
+
+        protected void Pomoc_Click(object sender, RoutedEventArgs e)
+        {
+            Help Pomoc=new Help();
+            Pomoc.ShowDialog();
         }
     }
 }
