@@ -1,0 +1,16 @@
+c:\users\amra\documents\visual studio 2012\Projects\Memoriy\Memoriy\bin\Debug\Memoriy.exe.config
+C:\Users\Amra\documents\visual studio 2012\Projects\Memoriy\Memoriy\bin\Debug\Memoriy.exe
+C:\Users\Amra\documents\visual studio 2012\Projects\Memoriy\Memoriy\bin\Debug\Memoriy.pdb
+C:\Users\Amra\documents\visual studio 2012\Projects\Memoriy\Memoriy\obj\Debug\Memoriy.csprojResolveAssemblyReference.cache
+C:\Users\Amra\documents\visual studio 2012\Projects\Memoriy\Memoriy\obj\Debug\App.g.cs
+C:\Users\Amra\documents\visual studio 2012\Projects\Memoriy\Memoriy\obj\Debug\Memoriy_MarkupCompile.cache
+C:\Users\Amra\documents\visual studio 2012\Projects\Memoriy\Memoriy\obj\Debug\Memoriy.g.resources
+C:\Users\Amra\documents\visual studio 2012\Projects\Memoriy\Memoriy\obj\Debug\Memoriy.Properties.Resources.resources
+C:\Users\Amra\documents\visual studio 2012\Projects\Memoriy\Memoriy\obj\Debug\Memoriy.csproj.GenerateResource.Cache
+C:\Users\Amra\documents\visual studio 2012\Projects\Memoriy\Memoriy\obj\Debug\Memoriy.exe
+C:\Users\Amra\documents\visual studio 2012\Projects\Memoriy\Memoriy\obj\Debug\Memoriy.pdb
+C:\Users\Amra\documents\visual studio 2012\Projects\Memoriy\Memoriy\obj\Debug\Memory.baml
+C:\Users\Amra\documents\visual studio 2012\Projects\Memoriy\Memoriy\obj\Debug\Memory.g.cs
+C:\Users\Amra\Documents\Visual Studio 2012\Projects\Memory\Memoriy\bin\Debug\Memoriy.exe.config
+C:\Users\Amra\Documents\Visual Studio 2012\Projects\Memory\Memoriy\obj\Debug\Memoriy.exe
+C:\Users\Amra\Documents\Visual Studio 2012\Projects\Memory\Memoriy\obj\Debug\Memoriy.pdb
