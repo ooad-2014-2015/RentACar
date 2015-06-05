@@ -1,0 +1,22 @@
+﻿<Window x:Class="xRentACarx.View.Rezervacija"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Rezervacija" Height="300" Width="300" Background="LightSteelBlue">
+    <Grid>
+        <Label Content="Datum iznajmljivanja" HorizontalAlignment="Left" Margin="20,34,0,0" VerticalAlignment="Top"/>
+        <Label Content="Datum vraćanja" HorizontalAlignment="Left" Margin="20,65,0,0" VerticalAlignment="Top"/>
+        <Label Content="Preuzimanje" HorizontalAlignment="Left" Margin="20,96,0,0" VerticalAlignment="Top"/>
+        <Label Content="Vraćanje" HorizontalAlignment="Left" Margin="20,127,0,0" VerticalAlignment="Top"/>
+        <Label Content="Vozilo" HorizontalAlignment="Left" Margin="20,158,0,0" VerticalAlignment="Top"/>
+        <ComboBox HorizontalAlignment="Left" Margin="152,104,0,0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.5,0.5">
+        </ComboBox>
+        <ComboBox HorizontalAlignment="Left" Margin="152,131,0,0" VerticalAlignment="Top" Width="120"/>
+        <DatePicker HorizontalAlignment="Left" Margin="152,65,0,0" VerticalAlignment="Top" Height="26" Width="120"/>
+        <DatePicker HorizontalAlignment="Left" Margin="152,36,0,0" VerticalAlignment="Top" Width="120"/>
+        <GroupBox Header="Rezervacija" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="250" Width="262" Foreground="RoyalBlue">
+            <ComboBox HorizontalAlignment="Left" Height="22" VerticalAlignment="Top" Width="120" Margin="137,136,0,0"/>
+        </GroupBox>
+        <Button Content="Otkaži" HorizontalAlignment="Left" Margin="65,225,0,0" VerticalAlignment="Top" Width="75"/>
+   
+    </Grid>
+</Window>
