@@ -23,3 +23,5 @@ C:\Users\AyLLa\Desktop\Projekat\Projekat\obj\Debug\Projekat.exe
 C:\Users\AyLLa\Desktop\Projekat\Projekat\obj\Debug\Projekat.pdb
 C:\Users\AyLLa\Desktop\Projekat\Projekat\obj\Debug\Help.baml
 C:\Users\AyLLa\Desktop\Projekat\Projekat\obj\Debug\Help.g.cs
+C:\Users\AyLLa\Desktop\IV semestar\Objektno orjentirana analiza i dizajn\RentACar\Forme\Projekat\Projekat\bin\Debug\Projekat.exe.config
+C:\Users\AyLLa\Desktop\IV semestar\Objektno orjentirana analiza i dizajn\RentACar\Forme\Projekat\Projekat\obj\Debug\Projekat.exe
